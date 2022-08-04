@@ -773,4 +773,4 @@ ITIOO isn't a thing, thin verticle slicing is refering to what work you prioriti
 - [ ] Project Increment
 - [ ] Portfolio Increment
 - [ ] Product Increment
-- [ ] Program Increment
+- [x] Program Increment
